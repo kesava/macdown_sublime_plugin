@@ -1,5 +1,5 @@
 # macdown.app Markdown - Sublime Text 2/3
-Adds a handy command and menu item to open your current file with [macdown.app](http://macdownapp.com/).
+Adds a handy command and menu item to open your current file with [macdown.app](http://macdown.uranusjr.com/).
 
 ## Installation Instructions
 
